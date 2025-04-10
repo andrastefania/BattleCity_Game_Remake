@@ -1,0 +1,50 @@
+﻿<RCC>
+	<qresource prefix="/StartImage">
+		<file>resources/StartGame.jpg</file>
+	</qresource>
+	<qresource prefix="/PlayersImages">
+		<file>../resources/Astronaut_1.png</file>
+		<file>../resources/Astronaut_2.png</file>
+		<file>../resources/Astronaut_3.png</file>
+		<file>../resources/Astronaut_4.png</file>
+	</qresource>
+	<qresource prefix="/Astronaut_1_Positions">
+		<file>../resources/Astronaut_1_Down.png</file>
+		<file>../resources/Astronaut_1_Left.png</file>
+		<file>../resources/Astronaut_1_Right.png</file>
+		<file>../resources/Astronaut_1_Up.png</file>
+	</qresource>
+	<qresource prefix="/Astronaut_2_Positions">
+		<file>../resources/Astronaut_2_Down.png</file>
+		<file>../resources/Astronaut_2_Left.png</file>
+		<file>../resources/Astronaut_2_Right.png</file>
+		<file>../resources/Astronaut_2_Up.png</file>
+	</qresource>
+	<qresource prefix="/Astronaut_3_Positions">
+		<file>../resources/Astronaut_3_Down.png</file>
+		<file>../resources/Astronaut_3_Left.png</file>
+		<file>../resources/Astronaut_3_Right.png</file>
+		<file>../resources/Astronaut_3_Up.png</file>
+	</qresource>
+	<qresource prefix="/Astronaut_4_Positions">
+		<file>../resources/Astronaut_4_Down.png</file>
+		<file>../resources/Astronaut_4_Left.png</file>
+		<file>../resources/Astronaut_4_Right.png</file>
+		<file>../resources/Astronaut_4_Up.png</file>
+	</qresource>
+	<qresource prefix="/Bomb">
+		<file>../resources/Extraterestru.png</file>
+	</qresource>
+	<qresource prefix="/BonusLife">
+		<file>../resources/Oxygen.png</file>
+	</qresource>
+	<qresource prefix="/Wall">
+		<file>../resources/Asteroid.png</file>
+	</qresource>
+	<qresource prefix="/Border">
+		<file>../resources/Border.png</file>
+	</qresource>
+	<qresource prefix="/SlowSpeedWall">
+		<file>../resources/praf1.png</file>
+	</qresource>
+</RCC>
